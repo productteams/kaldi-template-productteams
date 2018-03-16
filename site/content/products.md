@@ -1,52 +1,46 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Product Teams is the spot for product owners to quickly scale their team.  We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Product Teams is the spot for product owners to quickly scale their teams.  We take product strategy,
+  roasting and analysis seriously and we’re glad to help fill out the team on an ad-hoc basis.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
+        variety of services executed with great care and speed. Check our posts or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
+        We offer a small, but carefully curated selection of services and
+        tools for every toolkit and experience level. No matter if you run multiple product teams or just started your first start-up, you’ll find services
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Love a great product, and want help to make one?  Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our expereinced product owners
+        to learn anything you want to know about how we work, our experience and methodologies we understand.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that product owners have the power to bring people together to great great things that change the world.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        space where you can hang out with fellow product folks and learn about
+        product. All of the templates, art, methodologies, etc on display there are available for free download and we encourage download and sharing. The full price you may pay if the assets are usefull goes to support product management scholoarships.
   heading: What we offer
   description: >
-    ProductTeams is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    ProductTeams is the ultimate spot for product process lovers who want to learn about product management and support the thought leader that grew the practice where it is today. We take product
+    development, analysis and product launch seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Great Product with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
+    We hold our product to the highest standards from the napkin to the .
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
@@ -65,8 +59,8 @@ testimonials:
       The first time I tried ProductTeams's service, I couldn’t even believe that was able to scale so quickly.
   - author: Philipp Trommler
     quote: >-
-      ProductTeams is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      ProductTeams is the place to go if you want scale quickly and fill out your team. I love their
+      stance on transparency and simple billing.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -89,12 +83,12 @@ pricing:
         - Up to 4 different varieties of services
       plan: Big
       price: '480'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Need more hours or more varietied services? Try our custom plan
       items:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
         - p to 4 different varieties of services
       plan: Custom
-      price: '?'
+      price: '1000+'
 ---
 
