@@ -5,8 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  Product Teams is the spot for product owners to quickly scale their team.  We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
@@ -40,7 +39,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    ProductTeams is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
@@ -63,11 +62,10 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I tried ProductTeams's service, I couldn’t even believe that was able to scale so quickly.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
+      ProductTeams is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
@@ -77,25 +75,25 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the product owner who wants 4 hours per week.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - participation in sprint stand-ups/retrospectives as needed.
+        - All services are the same per hour"
+        - One or two varieties of service"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '250'
+    - description: 'Great for product owners who need 8 hours a week'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - participation in sprint stand-ups/retrospectives as needed.
+        - All services are the same per hour
+        - Up to 4 different varieties of services
       plan: Big
-      price: '80'
+      price: '480'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - participation in sprint stand-ups/retrospectives as needed.
+        - All services are the same per hour
+        - p to 4 different varieties of services
       plan: Custom
       price: '?'
 ---
