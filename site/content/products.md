@@ -11,7 +11,7 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We help product owners initiate/plan/execute/monitor/and launch new products.We have been doing it for over 25 years, and have been product-owner or product team member to over 500 products. We’re proud to offer a
+        <strong>INITIATE:</strong>We help initiate new products.We have been doing it for over 25 years, and have been product-owner or product team member to over 500 products. We’re proud to offer a
         variety of services executed with great care and speed. Check our posts or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
