@@ -11,8 +11,7 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
+        We help product owners initiate/plan/execute/monitor/and launch new products.We have been doing it for over 25 years, and have been product-owner or product team member to over 500 products. We’re proud to offer a
         variety of services executed with great care and speed. Check our posts or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
@@ -31,7 +30,7 @@ intro:
         We believe that product owners have the power to bring people together to great great things that change the world.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow product folks and learn about
-        product. All of the templates, art, methodologies, etc on display there are available for free download and we encourage download and sharing. The full price you may pay if the assets are usefull goes to support product management scholoarships.
+        product. All of the templates, art, methodologies, etc on display here are available for free download and we encourage download and sharing. The full price you may pay - if the assets are usefull and you put them to use in your company - goes to support product management scholoarships in under-served communities.
   heading: What we offer
   description: >
     ProductTeams is the ultimate spot for product process lovers who want to learn about product management and support the thought leader that grew the practice where it is today. We take product
@@ -45,13 +44,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: product
     image: /img/products/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: product
     image: /img/products/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: product
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
@@ -63,11 +62,11 @@ testimonials:
       stance on transparency and simple billing.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Weekly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easier to build great product. Choose one of our
+    weekly subscription plans to receive expert services on-demand each
+    week. Contact us about more details and payment info.
   plans:
     - description: Perfect for the product owner who wants 4 hours per week.
       items:
