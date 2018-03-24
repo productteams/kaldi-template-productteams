@@ -11,23 +11,23 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        <strong>INITIATE:</strong>We help initiate new products.We have been doing it for over 25 years, and have been product-owner or product team member to over 500 products. We’re proud to offer a
+        INITIATE: We help initiate new products.We have been doing it for over 25 years, and have been product-owner or product team member to over 500 products. We’re proud to offer a
         variety of services executed with great care and speed. Check our posts or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of services and
+        PLAN:  We help product owners plan, but carefully curated selection of services and
         tools for every toolkit and experience level. No matter if you run multiple product teams or just started your first start-up, you’ll find services
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great product, and want help to make one?  Don't worry, we’re here
+        EXECUTE: We help Love a great product, and want help to make one?  Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our expereinced product owners
         to learn anything you want to know about how we work, our experience and methodologies we understand.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that product owners have the power to bring people together to great great things that change the world.
+        LAUNCH:  We help product owners launch. Getting the MVP out the door in the wild is the ultimate metric. We help do everything it takes to get the product live and to get the first traction.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow product folks and learn about
         product. All of the templates, art, methodologies, etc on display here are available for free download and we encourage download and sharing. The full price you may pay - if the assets are usefull and you put them to use in your company - goes to support product management scholoarships in under-served communities.
