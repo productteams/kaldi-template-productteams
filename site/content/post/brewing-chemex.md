@@ -1,6 +1,6 @@
 ---
 title: "Product: Chemex - Wood and Glass"
-date: 2016-12-17T15:04:10.000Z
+date: 2018-02-17T15:04:10.000Z
 description: Problem - coffee drinkers want a ritual;  Solution - Chemex sytem of wood around glass.
 image: /img/blog/flavor_wheel.jpg
 ---
