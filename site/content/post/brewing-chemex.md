@@ -1,10 +1,8 @@
 ---
-title: Chemex: The Product
-date: 2017-01-04T15:04:10.000Z
-description: Creating a product that seems like a complicated, time-consuming
-  ordeal is non obvious, but once you get used to the Chemex process, it becomes a soothing ritual
-  that's worth the effort every time. 
-image: /img/blog/chemex.jpg
+title: "Product: SCAA’s new Flavor Wheel"
+date: 2016-12-17T15:04:10.000Z
+description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+image: /img/blog/flavor_wheel.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
