@@ -2,7 +2,7 @@
 title: "Product: Travel to Underwater Paradise"
 date: 2016-12-17T15:04:10.000Z
 description: The product, an underwater paradise travel destination, must compete with all the other travel products out there.
-image: /img/blog/flavor_wheel.jpg
+image: /img/blog/fBR-tanz-afr-coral-reef-images.jpg
 ---
 {---travel-tropical-underwater-paradise--}
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
