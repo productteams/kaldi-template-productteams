@@ -1,8 +1,7 @@
 ---
 title: Chemex: The Product
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Creating a product that seems like a complicated, time-consuming
+description: Creating a product that seems like a complicated, time-consuming
   ordeal is non obvious, but once you get used to the Chemex process, it becomes a soothing ritual
   that's worth the effort every time. 
 image: /img/blog/chemex.jpg
