@@ -2,7 +2,7 @@
 title: "Measure : Cohort Analysis"
 date: 2016-12-17T15:04:10.000Z
 description: Tracking users in cohort is the only way to understand their experience.
-image: /img/blog/0-004.jpg
+image: /img/blog/000-4.jpg
 ---
 
 <!--- travel-tropical-underwater-paradise 
