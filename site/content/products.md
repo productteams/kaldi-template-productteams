@@ -5,8 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Product Teams is the spot for product owners to quickly scale their teams.  We take product strategy,
-  roasting and analysis seriously and we’re glad to help fill out the team on an ad-hoc basis.
+  Product Teams is the spot for product owners to quickly scale their teams.  We are glad to help fill out your team on an ad-hoc basis.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -27,7 +26,7 @@ intro:
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        LAUNCH:  We help product owners launch. Getting the MVP out the door in the wild is the ultimate metric. We help do everything it takes to get the product live and to get the first traction.
+        LAUNCH:  We help product owners launch products. Getting your MVP out the door and into the wild is the ultimate metric.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow product folks and learn about
         product. All of the templates, art, methodologies, etc on display here are available for free download and we encourage download and sharing. The full price you may pay - if the assets are usefull and you put them to use in your company - goes to support product management scholoarships in under-served communities.
