@@ -58,7 +58,7 @@ testimonials:
       ProductTeams is the place to go if you want scale quickly and fill out your team. I love their
       stance on transparency and simple billing.
 full_image: /img/products/products-full-width.jpg
-Pricing:
+pricing:
   heading: Weekly Subscriptions
   description: >-
     Choose one of our
@@ -67,9 +67,9 @@ Pricing:
   plans:
     - description: Every client starts with an inital scoping.
       items:
-        - 1 hour Video conference call with all team members.
+        - 1 hour Video conference call with all team members
         - Based on project application form
-        - Deliverable : Task Summary
+        - Deliverable Task Summary
       plan: Initial Scoping
       price: '100'
     - description: 'Great for product owners who need 8 hours a week'
@@ -77,14 +77,14 @@ Pricing:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
         - Up to 2 different varieties of services
-      plan: 8/2 : 8 hours -  Max 2 Service Types
+      plan 8/2 : 8 hours -  Max 2 Service Types
       price: '480'
     - description: Need more hours or more varietied services? Try our custom plan
       items:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
         - Up to 4 different varieties of services
-      plan: 16/4 : 16 hours - Max 4 Service Types
-      price: '1000+'
+      plan 16/4 : 16 hours - Max 4 Service Types
+      price: '1000'
 ---
 
