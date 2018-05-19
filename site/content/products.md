@@ -86,5 +86,12 @@ pricing:
         - p to 4 different varieties of services
       plan: Custom
       price: '1000+'
+     - description: Initial Scoping Meeting. Making sure we are a fit.
+      items:
+        - participation in sprint stand-ups/retrospectives as needed.
+        - 1 hour video conference call
+        - We will arrange the team members who attend based on the tasks needed.
+      plan: Initial Scoping
+      price: '100'
 ---
 
