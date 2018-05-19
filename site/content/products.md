@@ -84,7 +84,8 @@ pricing:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
         - Up to 4 different varieties of services
-      plan 16/4 : 16 hours - Max 4 Service Types
+        - 16 hours - Max 4 Service Types
+      plan: 16 hours/4 Types 
       price: '1000'
 ---
 
