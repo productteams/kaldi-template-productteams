@@ -58,40 +58,33 @@ testimonials:
       ProductTeams is the place to go if you want scale quickly and fill out your team. I love their
       stance on transparency and simple billing.
 full_image: /img/products/products-full-width.jpg
-pricing:
-  heading: Weekly subscriptions
+Pricing:
+  heading: Weekly Subscriptions
   description: >-
     Choose one of our
     weekly subscription plans to receive expert services on-demand each
     week. Guaranteed that your tasks will be done each week.
   plans:
-    - description: Perfect for the product owner who wants 4 hours per week.
+    - description: Every client starts with an inital scoping.
       items:
-        - participation in sprint stand-ups/retrospectives as needed.
-        - All services are the same per hour"
-        - One or two varieties of service"
-      plan: Small
-      price: '250'
+        - 1 hour Video conference call with all team members.
+        - Based on project application form
+        - Deliverable : Task Summary
+      plan: Initial Scoping
+      price: '100'
     - description: 'Great for product owners who need 8 hours a week'
       items:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
-        - Up to 4 different varieties of services
-      plan: Big
+        - Up to 2 different varieties of services
+      plan: 8/2 : 8 hours -  Max 2 Service Types
       price: '480'
     - description: Need more hours or more varietied services? Try our custom plan
       items:
         - participation in sprint stand-ups/retrospectives as needed.
         - All services are the same per hour
-        - p to 4 different varieties of services
-      plan: Custom
+        - Up to 4 different varieties of services
+      plan: 16/4 : 16 hours - Max 4 Service Types
       price: '1000+'
-     - description: Initial Scoping Meeting. Making sure we are a fit.
-      items:
-        - participation in sprint stand-ups/retrospectives as needed.
-        - 1 hour video conference call
-        - We will arrange the team members who attend based on the tasks needed.
-      plan: Initial Scoping
-      price: '100'
 ---
 
