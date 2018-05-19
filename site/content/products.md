@@ -61,9 +61,9 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Weekly subscriptions
   description: >-
-    We make it easier to build great product. Choose one of our
+    Choose one of our
     weekly subscription plans to receive expert services on-demand each
-    week. Contact us about more details and payment info.
+    week. Guaranteed that your tasks will be done each week.
   plans:
     - description: Perfect for the product owner who wants 4 hours per week.
       items:
