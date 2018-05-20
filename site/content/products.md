@@ -1,11 +1,11 @@
 ---
-title: Our Services
+title: Scale Quickly
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  ProductTeams is a weekly service/bi-weekly that adds people to your sprint to get jobs done.  We are glad to help fill out your team on an ad-hoc basis and we love what we do.
+  ProductTeams is a sprint based service (weekly/bi-weekly) that gets product tasks done to keep your sprints on track.  We are glad to help fill out your team on an ad-hoc basis and we love what we do.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
